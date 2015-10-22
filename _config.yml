@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: BigCat的个人博客
 subtitle:
 description:
-author: John Doe
+author: BigCat
 language:
 timezone:
 
@@ -63,11 +63,12 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape
-
+theme: pacman
+stylus:
+  compress: true
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:github
-  repository:git@github.com:kkop233/kkop233.github.io.git
-  branch:master
+  type: git
+  repository: git@github.com:kkop233/kkop233.github.io.git
+  branch: master
