@@ -4,17 +4,17 @@
 
 # Site
 title: BigCat的个人博客
-subtitle:
-description:
+subtitle: 副标题
+description: 描述文字
 author: BigCat
-language:
-timezone:
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://kkop233.github.io
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :category/:id.html
 permalink_defaults:
 
 # Directory
