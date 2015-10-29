@@ -4,8 +4,8 @@
 
 # Site
 title: BigCat的个人博客
-subtitle: 副标题
-description: 描述文字
+subtitle: 
+description: 
 author: BigCat
 language: zh-CN
 timezone: Asia/Shanghai
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: pacman
+theme: jacman
 stylus:
   compress: true
 # Deployment
